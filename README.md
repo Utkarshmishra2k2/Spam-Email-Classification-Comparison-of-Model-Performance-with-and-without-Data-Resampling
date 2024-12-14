@@ -3,7 +3,7 @@ Welcome to the Spam Email Classification project! 🚀 This project uses machine
 
 Whether you're a beginner or a seasoned ML enthusiast, this project will give you hands-on experience with data cleaning, feature extraction, model training, and building an interactive web application using Streamlit. 💻✨
 
-* 🔍 Project Overview
+## 🔍 Project Overview
 This project is a comprehensive end-to-end solution for spam email detection. It leverages the following:
 
 - Data Exploration: Insightful visualizations to understand the dataset.
@@ -14,8 +14,10 @@ This project is a comprehensive end-to-end solution for spam email detection. It
 - Model Evaluation: Metrics like accuracy, confusion matrix, ROC Curve, and Precision-Recall Curve.
 - Hyperparameter Tuning: Using GridSearchCV to find the best model parameters.
 - Real-time Prediction: An interactive Streamlit app to predict spam emails on the go!
-🛠 Key Features
-Data Exploration & Visualization:
+
+
+## 🛠 Key Features
+1. Data Exploration & Visualization:
 
 Analyze the distribution of spam vs. non-spam emails.
 Explore text length distribution and identify key patterns.
