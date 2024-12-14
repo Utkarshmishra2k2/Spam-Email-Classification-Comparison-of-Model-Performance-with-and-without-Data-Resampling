@@ -61,6 +61,13 @@ This project is a comprehensive end-to-end solution for spam email detection. It
 1. We perform cross-validation to validate model performance across different data splits.
 2. GridSearchCV is used for hyperparameter tuning to find the optimal parameters.
 
+## 📈 Comparison: With vs. Without Resampling
+One of the key aspects of this project is the handling of class imbalance. The dataset contains significantly more non-spam emails than spam emails, which could lead to a biased model that predicts only the majority class (non-spam) with high accuracy but performs poorly on spam classification.
+- ![image](https://github.com/user-attachments/assets/7f4d9251-290d-4954-9805-c2c3a61ca8f6)
+- ![image](https://github.com/user-attachments/assets/97796e3f-9353-45e7-9b1d-3c07306ae413)
+
+ As you can see, while the accuracy is slightly lower with resampling, the precision and recall for spam emails are significantly improved. This shows that the model is now better equipped to correctly classify spam emails without being biased towards the majority class.
+
 
 ## 🌟 Key Technologies
 1. Python: The programming language for this entire project.
