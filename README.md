@@ -19,7 +19,7 @@ This project is a comprehensive end-to-end solution for spam email detection. It
 ## 🛠 Key Features
 1. Data Exploration & Visualization:
 
-Analyze the distribution of spam vs. non-spam emails.
+-- Analyze the distribution of spam vs. non-spam emails.
 Explore text length distribution and identify key patterns.
 Visualize frequent words in both spam and non-spam emails using WordCloud.
 Text Preprocessing & Feature Extraction:
