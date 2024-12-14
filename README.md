@@ -17,12 +17,12 @@ This project is a comprehensive end-to-end solution for spam email detection. It
 
 
 ## 🛠 Key Features
-1. Data Exploration & Visualization:
+- Data Exploration & Visualization:
+1. Analyze the distribution of spam vs. non-spam emails.
+2. Explore text length distribution and identify key patterns.
+3. Visualize frequent words in both spam and non-spam emails using WordCloud.
 
--- Analyze the distribution of spam vs. non-spam emails.
-Explore text length distribution and identify key patterns.
-Visualize frequent words in both spam and non-spam emails using WordCloud.
-Text Preprocessing & Feature Extraction:
+- Text Preprocessing & Feature Extraction:
 
 Clean email text data by removing special characters, stopwords, and more.
 Use TF-IDF Vectorization to convert text data into numerical features for modeling.
