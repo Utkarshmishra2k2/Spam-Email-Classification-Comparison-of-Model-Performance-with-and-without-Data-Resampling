@@ -44,7 +44,11 @@ This project is a comprehensive end-to-end solution for spam email detection. It
 1. Predict whether a given email is spam or not via a simple Streamlit interface.
 2. Save and view your prediction history in real-time.
 
-## 📈 Screenshots of the Web App
+## 📈 Demonstration of the Web App
+[Link to Web App](https://spam-email-classification-jfwc792ttwneagun8lcdia.streamlit.app/)
+
+https://github.com/user-attachments/assets/2df2fe6b-e45d-474a-ad49-ee31a9c7e6d2
+
 
 
 ## 🧑‍💻 Model Training & Evaluation
