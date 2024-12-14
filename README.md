@@ -3,17 +3,17 @@ Welcome to the Spam Email Classification project! 🚀 This project uses machine
 
 Whether you're a beginner or a seasoned ML enthusiast, this project will give you hands-on experience with data cleaning, feature extraction, model training, and building an interactive web application using Streamlit. 💻✨
 
-🔍 Project Overview
+* 🔍 Project Overview
 This project is a comprehensive end-to-end solution for spam email detection. It leverages the following:
 
 - Data Exploration: Insightful visualizations to understand the dataset.
-Text Preprocessing: Techniques to clean and prepare the data for model training.
-Feature Engineering: Use of TF-IDF for text vectorization.
-Modeling: Training a Naive Bayes classifier to classify emails as spam or not.
-Handling Imbalanced Data: Using SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset.
-Model Evaluation: Metrics like accuracy, confusion matrix, ROC Curve, and Precision-Recall Curve.
-Hyperparameter Tuning: Using GridSearchCV to find the best model parameters.
-Real-time Prediction: An interactive Streamlit app to predict spam emails on the go!
+- Text Preprocessing: Techniques to clean and prepare the data for model training.
+- Feature Engineering: Use of TF-IDF for text vectorization.
+- Modeling: Training a Naive Bayes classifier to classify emails as spam or not.
+- Handling Imbalanced Data: Using SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset.
+- Model Evaluation: Metrics like accuracy, confusion matrix, ROC Curve, and Precision-Recall Curve.
+- Hyperparameter Tuning: Using GridSearchCV to find the best model parameters.
+- Real-time Prediction: An interactive Streamlit app to predict spam emails on the go!
 🛠 Key Features
 Data Exploration & Visualization:
 
